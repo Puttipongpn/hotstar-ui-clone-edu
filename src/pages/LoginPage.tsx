@@ -13,7 +13,7 @@ const LoginPage = () => {
 
                 <div className='flex flex-1 justify-center items-center'>
                     <div className='flex flex-col items-center '>
-                        <img src="/src/assets/QR_code_for_mobile_English_Wikipedia.svg" className='bg-white	rounded-xl h-44' alt="" />
+                        <img src="/assets/QR_code_for_mobile_English_Wikipedia.svg" className='bg-white	rounded-xl h-44' alt="" />
                         <span>สแกนรหัส QR ด้วยกล้องบนมือถือของคุณเพื่อเข้าสู่ระบบ</span>
                         <span>คลิกที่ลิงก์เพื่อไปยังแอปฯ Disney+ Hotstar</span>
                     </div>
