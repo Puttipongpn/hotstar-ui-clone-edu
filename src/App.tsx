@@ -8,7 +8,7 @@ function App() {
   return (
     <Routes>
       <Route path="/" element={<LoginPage />} />
-      <Route path="/profile-selector" element={<ProfileSelectorIndex />} />
+      <Route path="/select-profile" element={<ProfileSelectorIndex />} />
     </Routes>
   )
 }
